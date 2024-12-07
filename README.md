@@ -6,16 +6,10 @@ This works by assuming your pocketbase installation's data is at: `/home/ubuntu/
 
 ### Run the script
 
-Make the script executable:
+Run the python script:
 
 ```
-chmod +x copy_files.sh
-```
-
-Execute the script:
-
-```
-./copy_files.sh
+python3 copy_files.sh
 ```
 
 ### DO NOT EDIT THE FILES INSIDE `pb_public`!!!
