@@ -1,2 +1,4 @@
-# Class-Notes-Data
-Data for Class-Notes repository
+# Class Notes (Data)
+
+Everything in this repository should go inside `pb_public` folder.
+
