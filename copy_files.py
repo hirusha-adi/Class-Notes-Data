@@ -11,11 +11,11 @@ print("Starting the process...")
 print(f"1. Deleting everything inside the '{dst}' folder")
 for filename in os.listdir(dst):
     file_path = os.path.join(dst, filename)
-    print(file_path)
-    # if os.path.isdir(file_path):
-    #     shutil.rmtree(file_path)
-    # else:
-    #     os.remove(file_path)
+    print(f"1.X Now removing: {file_path}")
+    if os.path.isdir(file_path):
+        shutil.rmtree(file_path)
+    else:
+        os.remove(file_path)
 
 # Step 2: Copying the './images' folder to the destination
 print("2. Copying the './images' folder to '{}'".format(dst))
