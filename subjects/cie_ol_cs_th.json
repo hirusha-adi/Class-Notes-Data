@@ -28,6 +28,16 @@
               "title": "Output Devices",
               "type": "doc",
               "resource_name": "cie_ol_cs_th_1_hardware_devices_4_output_devices"
+            },
+            {
+              "title": "Primary Storage",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_1_hardware_devices_5_primary_storage"
+            },
+            {
+              "title": "Secondary Storage",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_1_hardware_devices_6_secondary_storage"
             }
           ]
         },
@@ -74,6 +84,47 @@
               "title": "IDE",
               "type": "doc",
               "resource_name": "cie_ol_cs_th_2_software_8_ide"
+            }
+          ]
+        },
+        {
+          "title": "3. Internet",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Networking",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_1_networking"
+            },
+            {
+              "title": "Networking Devices",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_2_networking_hardware"
+            },
+            {
+              "title": "Internet",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_3_internet"
+            },
+            {
+              "title": "DNS",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_4_dns"
+            },
+            {
+              "title": "Cookies",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_5_cookies"
+            },
+            {
+              "title": "Digital Currency",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_6_digital_currency"
+            },
+            {
+              "title": "Cloud Computing",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_7_cloud_computing"
             }
           ]
         }
