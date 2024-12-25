@@ -20,24 +20,19 @@
               "resource_name": "cie_ol_cs_th_1_hardware_devices_2_input_devices"
             },
             {
-              "title": "Sensors",
-              "type": "doc",
-              "resource_name": "cie_ol_cs_th_1_hardware_devices_3_sensors"
-            },
-            {
               "title": "Output Devices",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_1_hardware_devices_4_output_devices"
+              "resource_name": "cie_ol_cs_th_1_hardware_devices_3_output_devices"
             },
             {
               "title": "Primary Storage",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_1_hardware_devices_5_primary_storage"
+              "resource_name": "cie_ol_cs_th_1_hardware_devices_4_primary_storage"
             },
             {
               "title": "Secondary Storage",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_1_hardware_devices_6_secondary_storage"
+              "resource_name": "cie_ol_cs_th_1_hardware_devices_5_secondary_storage"
             }
           ]
         },
@@ -125,6 +120,116 @@
               "title": "Cloud Computing",
               "type": "doc",
               "resource_name": "cie_ol_cs_th_3_internet_7_cloud_computing"
+            }
+          ]
+        },
+        {
+          "title": "4. Security",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Encoding",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_4_security_1_encoding"
+            },
+            {
+              "title": "Encryption",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_4_security_2_encryption"
+            },
+            {
+              "title": "Cyber Security",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_4_security_3_cyber_security"
+            },
+            {
+              "title": "Data Security",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_4_security_4_data_security"
+            }
+          ]
+        },
+        {
+          "title": "5. New Technologies",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Introduction",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_5_new_technologies_1_introduction"
+            },
+            {
+              "title": "Devices",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_5_new_technologies_2_devices"
+            },
+            {
+              "title": "Automated Systems",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_5_new_technologies_3_automated_systems"
+            },
+            {
+              "title": "Robots",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_5_new_technologies_4_robotics"
+            },
+            {
+              "title": "Artificial Intelligence",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_5_new_technologies_5_ai"
+            }
+          ]
+        },
+        {
+          "title": "6. CPU Architecture",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Introduction",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_6_cpu_architechture_1_introduction"
+            },
+            {
+              "title": "Architecture",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_6_cpu_architechture_2_architechture"
+            },
+            {
+              "title": "Embdedded Systems",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_6_cpu_architechture_3_embedded_systems"
+            }
+          ]
+        },
+        {
+          "title": "7. Data Representation",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Networking",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_1_networking"
+            }
+          ]
+        },
+        {
+          "title": "8. Data Checking",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Data Transmission",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_8_data_checking_1_data_transmission"
+            },
+            {
+              "title": "USB",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_8_data_checking_2_usb"
+            },
+            {
+              "title": "Error Checking",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_8_data_checking_3_error_checking"
             }
           ]
         }
