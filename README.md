@@ -1,15 +1,27 @@
-# Class Notes (Data)
+# [[Class Notes]](https://github.com/hirusha-adi/Classs-Notes) Data
 
-Almost everything (directories) in this repository should go inside `pb_public` folder.
+For [server-vps-class](https://github.com/hirusha-adi/server-vps-class).
 
-This works by assuming your pocketbase installation's data is at: `/home/ubuntu/apps/class-notes/pb`, where the username is `ubuntu`, and the destination directory `pb_public`. Note that everything inside this folder will be deleted and replaced.
+## Folder Structure
 
-### Run the script
+All directories in this repository should be placed inside the `pb_public` folder.
 
-Run the python script:
+The system assumes your PocketBase installation's data is located at:  
+`/home/ubuntu/apps/class-notes/pb`  
+Here, the username is `ubuntu`, and the target directory is `pb_public`.
 
-```
+⚠️ **Warning:** Everything inside the `pb_public` folder will be deleted and replaced during the setup process.
+
+## Usage
+
+To deploy the data, run the provided Python script on the server:
+
+```bash
 python3 copy_files.sh
 ```
 
-### DO NOT EDIT THE FILES INSIDE `pb_public`!!!
+## Important Notes
+
+- **Do not edit any files inside the `pb_public` folder.**
+
+By following these instructions, you can ensure proper synchronization of the data for the Class Notes app.
