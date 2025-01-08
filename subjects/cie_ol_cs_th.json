@@ -206,9 +206,49 @@
           "type": "dir",
           "children": [
             {
-              "title": "Networking",
+              "title": "Number Systems",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_3_internet_1_networking"
+              "resource_name": "cie_ol_cs_th_7_data_representation_1_number_systems"
+            },
+            {
+              "title": "Number Conversions",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_7_data_representation_2_number_conversions"
+            },
+            {
+              "title": "Binary Manipulation",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_7_data_representation_3_binary_manipulation"
+            },
+            {
+              "title": "Negative Numbers",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_7_data_representation_4_negative_numbers"
+            },
+            {
+              "title": "Character Sets",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_7_data_representation_5_character_sets"
+            },
+            {
+              "title": "Sounds",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_7_data_representation_6_sounds"
+            },
+            {
+              "title": "Images",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_7_data_representation_7_images"
+            },
+            {
+              "title": "File Sizes",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_7_data_representation_8_file_sizes"
+            },
+            {
+              "title": "Compression",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_7_data_representation_9_compression"
             }
           ]
         },
