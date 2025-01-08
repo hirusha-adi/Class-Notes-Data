@@ -272,7 +272,13 @@
               "resource_name": "cie_ol_cs_th_8_data_checking_3_error_checking"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "title": "Paper 2",
+      "type": "dir",
+      "children": [
         {  
           "title": "10. Problem Solving",
           "type": "dir",
