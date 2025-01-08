@@ -272,6 +272,170 @@
               "resource_name": "cie_ol_cs_th_8_data_checking_3_error_checking"
             }
           ]
+        },
+        {  
+          "title": "10. Problem Solving",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Program Development",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_10_problem_solving_1_program_development"
+            },
+            {
+              "title": "Systems",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_10_problem_solving_2_systems"
+            },
+            {
+              "title": "Constructing Solutions",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_10_problem_solving_3_contructing_solutions"
+            },
+            {
+              "title": "Validation and Verification",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_10_problem_solving_4_validation_and_verification"
+            },
+            {
+              "title": "Test Data",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_10_problem_solving_5_test_data"
+            },
+            {
+              "title": "Trace Tables",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_10_problem_solving_6_trace_tables"
+            },
+            {
+              "title": "Method Solutions",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_10_problem_solving_7_method_solutions"
+            },
+            {
+              "title": "Programming",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_10_problem_solving_8_programming"
+            }
+          ]
+        },
+        {  
+          "title": "11. Flow Charts",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Introduction",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_11_flowcharts_1_introduction"
+            }
+          ]
+        },
+        {  
+          "title": "12. Programming",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Arrays",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_arrays"
+            },
+            {
+              "title": "Comments",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_comments"
+            },
+            {
+              "title": "Data Types",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_data_types"
+            },
+            {
+              "title": "File Handling",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_file_handling"
+            },
+            {
+              "title": "Good Practices",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_good_practices"
+            },
+            {
+              "title": "Input / Output",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_input_output"
+            },
+            {
+              "title": "Iteration",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_iteration"
+            },
+            {
+              "title": "Library Routines",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_library_routines"
+            },
+            {
+              "title": "Nesting",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_nesting"
+            },
+            {
+              "title": "Operators",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_operators"
+            },
+            {
+              "title": "Procedures and Functions",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_procedures_and_functions"
+            },
+            {
+              "title": "Selection",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_selection"
+            },
+            {
+              "title": "Sequence",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_sequence"
+            },
+            {
+              "title": "String Manipulation",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_string_manipulation"
+            },
+            {
+              "title": "Variables",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_12_programming_variables"
+            }
+          ]
+        },
+        {  
+          "title": "13. Databases",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Data Types",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_13_databases_1_data_types"
+            },
+            {
+              "title": "Single Table Databases",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_13_databases_2_single_table_databases"
+            },
+            {
+              "title": "Primary Keys",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_13_databases_3_primary_keys"
+            },
+            {
+              "title": "SQL",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_13_databases_4_sql"
+            }
+          ]
         }
       ]
     }
