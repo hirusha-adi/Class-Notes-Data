@@ -1,0 +1,193 @@
+{
+  "title": "Topical Past Papers",
+  "menu": [
+    {
+      "title": "Paper 1",
+      "type": "dir",
+      "children": [
+        {
+          "title": "Digital Devices",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Introduction",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_1_welcome"
+            },
+            {
+              "title": "Basics",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_2_basics"
+            },
+            {
+              "title": "Types",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_types"
+            },
+            {
+              "title": "Features",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_4_features"
+            },
+            {
+              "title": "Capacity",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_5_capacity"
+            }
+          ]
+        },
+        {
+          "title": "Hardware",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Input Devices",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_2_hardware_1_input_devices"
+            },
+            {
+              "title": "Output Devices",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_2_hardware_2_output_devices"
+            },
+            {
+              "title": "Storage",
+              "type": "dir",
+              "children": [
+                {
+                  "title": "Introduction",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_1_digital_devices_2_hardware_3_storage_1_introduction"
+                },
+                {
+                  "title": "Primary Storage",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_1_digital_devices_2_hardware_3_storage_2_primary_storage"
+                },
+                {
+                  "title": "Secondary Storage",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_1_digital_devices_2_hardware_3_storage_3_secondary_storage"
+                }
+              ]
+            },
+            {
+              "title": "Standards",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_2_hardware_4_standards"
+            }
+          ]
+        },
+        {
+          "title": "Software",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Classification",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_1_classification"
+            },
+            {
+              "title": "Operating Systems",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_2_operating_systems"
+            },
+            {
+              "title": "System Software",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_3_system_software"
+            },
+            {
+              "title": "Utility Software",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_4_utility_software"
+            },
+            {
+              "title": "Application Software",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_5_application_software"
+            },
+            {
+              "title": "Communication Software",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_6_communication_software"
+            },
+            {
+              "title": "Updates",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_7_updates"
+            },
+            {
+              "title": "Licenses",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_8_licenses"
+            },
+            {
+              "title": "Standards",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_3_software_9_standards"
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "type": "dir",
+          "children": [
+            {
+              "title": "Introduction",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_4_communication_1_introduction"
+            },
+            {
+              "title": "Essentials",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_4_communication_2_essentials"
+            },
+            {
+              "title": "Transmission Mediums",
+              "type": "dir",
+              "children": [
+                {
+                  "title": "Wired",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_1_digital_devices_4_communication_3_transmission_mediums_1_wired"
+                },
+                {
+                  "title": "Wireless",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_1_digital_devices_4_communication_3_transmission_mediums_2_wireless"
+                }
+              ]
+            },
+            {
+              "title": "Hardware",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_4_communication_4_hardware"
+            },
+            {
+              "title": "Topologies",
+              "type": "doc",
+              "resource_name": "edexcel_igcse_ict_1_digital_devices_4_communication_5_topologies"
+            },
+            {
+              "title": "Architechture",
+              "type": "doc",
+              "children": [
+                {
+                  "title": "Wired",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_1_digital_devices_4_communication_6_architechture_1_client_server"
+                },
+                {
+                  "title": "Wireless",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_1_digital_devices_4_communication_6_architechture_2_p2p"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
