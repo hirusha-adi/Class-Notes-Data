@@ -87,39 +87,64 @@
           "type": "dir",
           "children": [
             {
-              "title": "Networking",
+              "title": "Data Transmission",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_3_internet_1_networking"
+              "resource_name": "cie_ol_cs_th_3_internet_1_data_transmission"
             },
             {
-              "title": "Networking Devices",
+              "title": "USB",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_3_internet_2_networking_hardware"
+              "resource_name": "cie_ol_cs_th_3_internet_2_usb"
+            },
+            {
+              "title": "Data Packets",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_3_data_packets"
+            },
+            {
+              "title": "Networking Hardware",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_4_networking_hardware"
+            },
+            {
+              "title": "IP",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_5_ip"
+            },
+            {
+              "title": "Packet Swicthing",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_6_packet_switching"
             },
             {
               "title": "Internet",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_3_internet_3_internet"
+              "resource_name": "cie_ol_cs_th_3_internet_7_internet"
+            },
+            {
+              "title": "HTML",
+              "type": "doc",
+              "resource_name": "cie_ol_cs_th_3_internet_8_html"
             },
             {
               "title": "DNS",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_3_internet_4_dns"
+              "resource_name": "cie_ol_cs_th_3_internet_9_dns"
             },
             {
               "title": "Cookies",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_3_internet_5_cookies"
+              "resource_name": "cie_ol_cs_th_3_internet_10_cookies"
             },
             {
               "title": "Digital Currency",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_3_internet_6_digital_currency"
+              "resource_name": "cie_ol_cs_th_3_internet_11_digital_currency"
             },
             {
               "title": "Cloud Computing",
               "type": "doc",
-              "resource_name": "cie_ol_cs_th_3_internet_7_cloud_computing"
+              "resource_name": "cie_ol_cs_th_3_internet_12_cloud_computing"
             }
           ]
         },
@@ -279,7 +304,7 @@
       "title": "Paper 2",
       "type": "dir",
       "children": [
-        {  
+        {
           "title": "10. Problem Solving",
           "type": "dir",
           "children": [
@@ -325,7 +350,7 @@
             }
           ]
         },
-        {  
+        {
           "title": "11. Flow Charts",
           "type": "dir",
           "children": [
@@ -336,7 +361,7 @@
             }
           ]
         },
-        {  
+        {
           "title": "12. Programming",
           "type": "dir",
           "children": [
@@ -417,7 +442,7 @@
             }
           ]
         },
-        {  
+        {
           "title": "13. Databases",
           "type": "dir",
           "children": [
