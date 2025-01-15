@@ -72,9 +72,30 @@
               ]
             },
             {
+              "title": "Processor",
+              "type": "dir",
+              "children": [
+                {
+                  "title": "Introduction",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_th_1_digital_devices_2_hardware_4_processor_1_introduction"
+                },
+                {
+                  "title": "Primary Storage",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_th_1_digital_devices_2_hardware_4_processor_2_cycles"
+                },
+                {
+                  "title": "Secondary Storage",
+                  "type": "doc",
+                  "resource_name": "edexcel_igcse_ict_th_1_digital_devices_2_hardware_4_processor_3_characteristics"
+                }
+              ]
+            },
+            {
               "title": "Standards",
               "type": "doc",
-              "resource_name": "edexcel_igcse_ict_th_1_digital_devices_2_hardware_4_standards"
+              "resource_name": "edexcel_igcse_ict_th_1_digital_devices_2_hardware_5_standards"
             }
           ]
         },
