@@ -25,4 +25,3 @@ python3 copy_files.sh
 - **Do not edit any files inside the `pb_public` folder.**
 
 By following these instructions, you can ensure proper synchronization of the data for the Class Notes app.
-
