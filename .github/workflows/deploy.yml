@@ -16,7 +16,7 @@ jobs:
           key: ${{ secrets.VPS_PRIVATE_KEY }}
           port: 22
           script: |
-            cd /home/ubuntu/apps/class-notes/work
+            cd /srv/hirusha-class-notes/work
             chmod +x ./*.sh
             bash update.sh
             python3 copy_files.py
