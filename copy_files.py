@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Destination directory
-dst = r"/home/ubuntu/apps/class-notes/pb/pb_public"
+dst = r"/srv/hirusha-class-notes/pocketbase/pb_public"
 
 # Show a message to the user
 print("Starting the process...")
