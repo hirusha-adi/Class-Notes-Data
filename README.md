@@ -7,8 +7,7 @@ For [server-vps-class](https://github.com/hirusha-adi/server-vps-class).
 All directories in this repository should be placed inside the `pb_public` folder.
 
 The system assumes your PocketBase installation's data is located at:  
-`/home/ubuntu/apps/class-notes/pb`  
-Here, the username is `ubuntu`, and the target directory is `pb_public`.
+`/srv/hirusha-class-notes/pocketbase/pb_public`  
 
 ⚠️ **Warning:** Everything inside the `pb_public` folder will be deleted and replaced during the setup process.
 
